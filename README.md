@@ -3,12 +3,27 @@ $$
 $$
 
 > Hi there 👋
-- I am doing my best to learn some mathematics and computer science :)
-- You can find my homepage [here](https://p.wuct.site)
 
-<center>
-  <picture>
-    <img src="https://github-readme-stats-px74byejo-wuc9521s-projects.vercel.app/api/top-langs/?layout=donut&username=wuc9521&langs_count=7&hide=jupyter%20notebook,css&custom_title=most-used%20lanaguges&exclude_repo=wuc9521.github.io,notes" alt="most-used languages">
-    <img src="https://github-readme-stats-px74byejo-wuc9521s-projects.vercel.app/api/top-langs?layout=donut&exclude_repo=wuc9521.github.io%2Cnotes&username=wuc9521&hide=jupyter%20notebook%2Ccss&langs_count=7&custom_title=most-used%20lanaguges">
-  </picture>
-</center>
+
+<table>
+  <tr>
+    <td>
+  <span style="height: 150px">
+    <ul>
+        <li> I am doing my best to learn some <strong>Mathematics</strong> and <strong>Computer Science</strong> :)</li><br>
+        <li> Currently a sophomore at <a href="https://www.wisc.edu">UW-Madison</a></li><br>
+        <li> You can find my homepage <a href="https://p.wuct.site"><u>here</u></a> </li>
+    </ul>
+  </span>
+      </td>
+    <td>
+  <span style="150px">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats-beta-hazel-93.vercel.app/api/top-langs?layout=donut&username=wuc9521&langs_count=7&hide=jupyter%20notebook,css&custom_title=most-used%20lanaguges&exclude_repo=wuc9521.github.io,notes">
+    </a>
+  </span>
+      </td>
+  </tr>
+</table>
+
+
