@@ -19,7 +19,7 @@ $$
     <td>
   <span style="150px">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats-beta-hazel-93.vercel.app/api/top-langs?layout=donut&username=wuc9521&theme=transparent&count-private=true&langs_count=7&custom_title=most-used%20languages&hide=css&exclude_repo=wuc9521.github.io,notes,github-readme-stats,TransferWiki,onedrive-vercel-index,static,notes,wiki,build-your-own-x,500lines,ReCDroid,burt">
+      <img src="https://github-readme-stats-beta-hazel-93.vercel.app/api/top-langs?layout=donut&username=wuc9521&theme=transparent&hide_border=true&count-private=true&langs_count=7&custom_title=most-used%20languages&hide=css&exclude_repo=wuc9521.github.io,notes,github-readme-stats,TransferWiki,onedrive-vercel-index,static,notes,wiki,build-your-own-x,500lines,ReCDroid,burt">
     </a>
   </span>
       </td>
