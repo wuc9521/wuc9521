@@ -18,7 +18,7 @@ $$
       </td>
     <td>
   <span style="150px">
-    <a href="https://p.wuct.site">
+    <a href="https://www.wuct.site">
       <img src="https://github-readme-stats-beta-hazel-93.vercel.app/api/top-langs?layout=donut&username=wuc9521&theme=transparent&hide_border=true&count-private=true&langs_count=7&custom_title=most-used%20languages&hide=css&exclude_repo=blog,wuc9521.github.io,github-readme-stats,TransferWiki,onedrive-vercel-index,static,notes,wiki,build-your-own-x,500lines,ReCDroid,burt">
     </a>
   </span>
