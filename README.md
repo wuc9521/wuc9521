@@ -10,9 +10,10 @@ $$
     <td>
   <span style="height: 150px">
     <ul>
-        <li> I am doing my best to learn some <strong>Mathematics</strong> and <strong>Computer Science</strong> :)</li><br>
+        <li> Pursuing B.S. in <strong>Mathematics</strong> and <strong>Computer Science</strong> :)</li><br>
+        <li> Trying to delve into the application of Logic and Algebra in <b>PLT</b> and <b>FM</b></li><br>
         <li> Currently a sophomore at <a href="https://www.wisc.edu">UW-Madison</a></li><br>
-        <li> You can find my homepage <a href="https://p.wuct.site"><u>here</u></a> </li>
+        <li> Once pursuing Software Engineering at Nanjing University</li>
     </ul>
   </span>
       </td>
