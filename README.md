@@ -1,6 +1,4 @@
-$$
-\Huge\textsf{ABOUT ME}
-$$
+$\Huge\texttt{ABOUT ME}$
 
 <b>Hi there</b> 👋    
 Pursuing B.S. in <ins>Mathematics</ins> and <ins>Computer Science</ins> :)       
