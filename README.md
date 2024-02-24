@@ -10,8 +10,8 @@ Once pursuing Software Engineering at <ins>Nanjing University</ins>
   
 
 <b>By 2024 May I'll be learning</b>    
-Combinatorics         (<i>Introductory combinatorics</i>, <ins>978-0136020400</ins>)         
-Mathematical Analysis (<i>Principles of mathematical analysis</i>, <ins>978-0070542358</ins>)        
+Combinatorics         (<i>Introductory Combinatorics</i>, <ins>978-0136020400</ins>)         
+Mathematical Analysis (<i>Principles of Mathematical Analysis</i>, <ins>978-0070542358</ins>)        
 Prorgram Analysis     (<i>Principles of Program Analysis</i>, <ins>978-3540654100</ins>)      
 Prorgamming Languages (<i>Structure and Interpretation of Computer Programs </i>,  <ins>978-0262510875</ins>)      
   
