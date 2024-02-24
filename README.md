@@ -1,30 +1,17 @@
 $$
-\Huge\textbf{About Me}
+\Huge\textsf{ABOUT ME}
 $$
 
-> Hi there 👋
+<b>Hi there</b> 👋    
+Pursuing B.S. in <ins>Mathematics</ins> and <ins>Computer Science</ins> :)       
+Trying to delve into the application of <ins>Logic</ins> and <ins>Algebra</ins> in <ins>PLT</ins> and <ins>FM</ins>       
+Currently a sophomore at <ins>University of Wisconsin-Madison</ins>      
+Once pursuing Software Engineering at <ins>Nanjing University</ins>    
+  
 
-
-<table>
-  <tr>
-    <td>
-  <span style="height: 150px">
-    <ul>
-        <li> Pursuing B.S. in <strong>Mathematics</strong> and <strong>Computer Science</strong> :)</li><br>
-        <li> Trying to delve into the application of Logic and Algebra in <b>PLT</b> and <b>FM</b></li><br>
-        <li> Currently a sophomore at <a href="https://www.wisc.edu">UW-Madison</a></li><br>
-        <li> Once pursuing Software Engineering at Nanjing University</li>
-    </ul>
-  </span>
-      </td>
-<!--     <td>
-  <span style="150px">
-    <a href="https://www.wuct.site">
-      <img src="https://github-readme-stats-beta-hazel-93.vercel.app/api/top-langs?layout=donut&username=wuc9521&theme=transparent&hide_border=true&count-private=true&langs_count=7&custom_title=most-used%20languages&hide=css&exclude_repo=blog,wuc9521.github.io,github-readme-stats,TransferWiki,onedrive-vercel-index,static,notes,wiki,build-your-own-x,500lines,ReCDroid,burt">
-    </a>
-  </span>
-      </td> -->
-  </tr>
-</table>
-
-
+<b>By 2024 May I'll be learning</b>    
+Combinatorics         (<i>Introductory combinatorics</i>, <ins>978-0136020400</ins>)         
+Mathematical Analysis (<i>Principles of mathematical analysis</i>, <ins>978-0070542358</ins>)        
+Prorgram Analysis     (<i>Principles of Program Analysis</i>, <ins>978-3540654100</ins>)      
+Prorgamming Languages (<i>Structure and Interpretation of Computer Programs </i>,  <ins>978-0262510875</ins>)      
+  
