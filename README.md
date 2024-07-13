@@ -10,7 +10,7 @@
 
 <b>Currently I'm learning</b>    
 - Program Synthesis    
-- Database Management Systems
+- Automated Reasoning
 - Abstract Algebra  
 
 
