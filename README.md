@@ -6,10 +6,11 @@
 
   
 
-<b>Currently I'm learning</b>    
-- Program Synthesis    
-- Automated Reasoning
-- Abstract Algebra  
+<b>By 2024 December I'll be learning</b>       
+- Model Theory
+- Abstract Algebra
+- Point Set Topology
+- Program Synthesis
 
 <div>
   <img src="./github-metrics.svg" alt="github metrics">
