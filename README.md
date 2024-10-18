@@ -8,8 +8,8 @@
 
 <b>By 2024 December I'll be learning</b>       
 - Model Theory
-- Abstract Algebra
-- Point Set Topology
+- Group and Ring Theory
+- Elementary Topology
 - Program Synthesis
 
 <div>
