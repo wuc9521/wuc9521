@@ -28,6 +28,9 @@ jobs:
           plugin_languages_recent_days: 14            
           commits_authoring: Chentian Wu, wuc9521, wuc9521@users.noreply.github.com # Get indepth stats (see documentation before enabling)
           repositories_affiliations: owner, collaborator
+          repositories_skipped: |
+            wuc9521/xk.nju.edu.cn-crawler
+            wuc9521/GEM-reproduction   # repeated with libcontinual-gem
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_lines: yes
