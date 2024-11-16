@@ -25,8 +25,8 @@ jobs:
           plugin_languages_sections: most-used, recently-used          # Display most used and recently used languages stats
           plugin_languages_recent_categories: markup, programming, data # Display only languages that match these categories in recently-used section
           plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
-          plugin_languages_recent_days: 7            
-          plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
+          plugin_languages_recent_days: 14            
+          commits_authoring: Chentian Wu, wuc9521, wuc9521@users.noreply.github.com # Get indepth stats (see documentation before enabling)
           commits_authoring: wuc9521@gmail.com  
           repositories_affiliations: owner, collaborator
           plugin_isocalendar: yes
