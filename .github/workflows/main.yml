@@ -27,7 +27,6 @@ jobs:
           plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
           plugin_languages_recent_days: 14            
           commits_authoring: Chentian Wu, wuc9521, wuc9521@users.noreply.github.com # Get indepth stats (see documentation before enabling)
-          commits_authoring: wuc9521@gmail.com  
           repositories_affiliations: owner, collaborator
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
