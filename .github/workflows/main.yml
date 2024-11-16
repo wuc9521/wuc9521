@@ -22,7 +22,7 @@ jobs:
           plugin_languages_ignored: html, css, scss, makefile, roff, xml, json, yaml, toml, npm%20config, starlark, rtf, rich%20text%20format, svg, ini, csv, pip%20requirements                
           plugin_languages_details: percentage              # Additionally display total bytes size and percentage
           plugin_languages_limit: 8                                     # Display up to 8 languages
-          plugin_languages_sections: most-used, recently-used          # Display most used and recently used languages stats
+          plugin_languages_sections: recently-used          # Display most used and recently used languages stats
           plugin_languages_recent_categories: markup, programming, data # Display only languages that match these categories in recently-used section
           plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
           plugin_languages_recent_days: 14            
