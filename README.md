@@ -6,11 +6,11 @@
 
   
 
-<b>By 2024 December I'll be learning</b>       
-- Model Theory
-- Group and Ring Theory
-- Elementary Topology
-- Program Synthesis
+<b>By 2025 May I'll be learning</b>       
+- Field Theory
+- Algebraic Topology
+- Category Theory
+- Program Verification
 
 <div>
   <img src="./github-metrics.svg" alt="github metrics">
