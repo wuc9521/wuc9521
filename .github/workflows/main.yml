@@ -19,7 +19,7 @@ jobs:
           config_display: large
           config_padding: 0, 8 + 2%
           plugin_languages: yes
-          plugin_languages_ignored: brainfuck, html, css, scss, makefile, roff, xml, json, yaml, toml, npm%20config, starlark, rtf, rich%20text%20format, svg, ini, csv, pip%20requirements                
+          plugin_languages_ignored: brainfuck, html, css, scss, makefile, roff, xml, json, yaml, toml, npm%20config, starlark, rtf, rich%20text%20format, svg, ini, csv, pip%20requirements,tex                
           plugin_languages_aliases: RenderScript:Rust
           plugin_languages_details: percentage              # Additionally display total bytes size and percentage
           plugin_languages_limit: 8                                     # Display up to 8 languages
