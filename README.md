@@ -1,7 +1,6 @@
 <b>Hi there</b> 👋    
 
-I'm a final-year undergrad at UW-Madison majoring in Math and CS. I learnt SE at NJU before 2024. 
-
+I'm a final-year Math and CS undergrad at UW-Madison. I once majored in Software Engineering at NJU. 
 I like the vast universe of PL/FM, and their beautiful mathematical [motivations](https://cv.wuct.site/pages/motivations.html)!
 
 <div>
