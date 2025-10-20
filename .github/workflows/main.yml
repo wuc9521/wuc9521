@@ -31,7 +31,8 @@ jobs:
           repositories_affiliations: owner, collaborator
           repositories_skipped: |
             wuc9521/xk.nju.edu.cn-crawler
-            wuc9521/GEM-reproduction   # repeated with libcontinual-gem
+            wuc9521/GEM-reproduction   
+            # repeated with libcontinual-gem
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_lines: yes
