@@ -1,8 +1,9 @@
 <b>Hi there</b> 👋    
 
-I'm a final-year Math and CS undergrad at UW-Madison. I once majored in Software Engineering at NJU. 
-I think about programming languages and their math foundations.
+I studied <a href="https://cv.wuct.site/pdf/bs-thesis.pdf">Mathematics</a> and Computer Science at UW-Madison (2024-2025), and before that I studied Software Engineering at NJU (2021-2023).
 
-<div>
+I think about the design of PL and their mathematical foundations.
+
+<!-- <div>
   <img src="./github-metrics.svg" alt="github metrics">
-</div>
+</div> -->
